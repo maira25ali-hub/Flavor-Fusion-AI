@@ -77,11 +77,11 @@ You are an AI recipe assistant. Generate delicious and practical recipes using o
 
 ### Home Screen
 
-![Home Screen](./screenshot1.png)
+![Home Screen](./screenshot1.png.JPG)
 
 ### AI Recipe Generation
 
-![AI Recipe Generation](./screenshot2.png)
+![AI Recipe Generation](./screenshot2.png.JPG)
 
 ### Recipe Results
 
