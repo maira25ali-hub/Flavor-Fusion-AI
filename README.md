@@ -10,7 +10,8 @@ https://flavor-fusion-ai-ten.vercel.app/
 
 Flavor Fusion AI is an AI-powered recipe generator that helps users create delicious recipes based on the ingredients they already have at home. It solves the common problem of not knowing what to cook and helps reduce food waste by suggesting personalized meal ideas.
 
-Target Users:
+### Target Users
+
 - Students
 - Busy professionals
 - Home cooks
@@ -51,7 +52,7 @@ The AI model is instructed to:
 - Recommend serving suggestions.
 - Ensure recipes are easy to understand and follow.
 
-Example Prompt:
+### Example Prompt
 
 ```
 You are an AI recipe assistant. Generate delicious and practical recipes using only the ingredients provided by the user. Provide cooking instructions, serving suggestions, and optional substitutions if applicable.
@@ -76,28 +77,30 @@ You are an AI recipe assistant. Generate delicious and practical recipes using o
 
 ### Home Screen
 
-![Home Screen](./screenshots/screenshot1.png)
+![Home Screen](./screenshot1.png)
 
 ### AI Recipe Generation
 
-![AI Recipe Generation](./screenshots/screenshot2.png)
+![AI Recipe Generation](./screenshot2.png)
 
 ### Recipe Results
 
-![Recipe Results](./screenshots/screenshot3.png)
+![Recipe Results](./screenshot3.png)
+
+---
 
 ## How to Run the Project Locally
 
 1. Clone the repository.
 
 ```
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/maira25ali-hub/Flavor-Fusion-AI.git
 ```
 
 2. Navigate to the project directory.
 
 ```
-cd flavor-fusion-ai
+cd Flavor-Fusion-AI
 ```
 
 3. Install dependencies.
@@ -125,10 +128,11 @@ http://localhost:5173
 The application is deployed on Vercel.
 
 Live URL:
+
 https://flavor-fusion-ai-ten.vercel.app/
 
 ---
 
 ## Author
 
-Developed by Maira Ali as the Final Project for Week 7 - Ship Your AI App.
+Developed by Maira Ali as the Final Project for Week 7 – Ship Your AI App.
