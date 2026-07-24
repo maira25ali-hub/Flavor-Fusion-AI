@@ -1,0 +1,6 @@
+{
+  "name": "Flavor Fusion AI",
+  "description": "Smart AI Recipe Generator that creates personalized recipes based on ingredients, dietary preferences, and cuisines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
