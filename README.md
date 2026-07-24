@@ -85,7 +85,7 @@ You are an AI recipe assistant. Generate delicious and practical recipes using o
 
 ### Recipe Results
 
-![Recipe Results](./screenshot3.png)
+![Recipe Results](./screenshot3.png.JPG)
 
 ---
 
