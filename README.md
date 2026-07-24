@@ -1,20 +1,138 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Flavor Fusion AI
 
-# Run and deploy your AI Studio app
+## Live Demo
 
-This contains everything you need to run your app locally.
+https://flavor-fusion-ai-ten.vercel.app/
 
-View your app in AI Studio: https://ai.studio/apps/476289d7-6888-44cc-96b1-badf0eb9de6b
+---
 
-## Run Locally
+## About the App
 
-**Prerequisites:**  Node.js
+Flavor Fusion AI is an AI-powered recipe generator that helps users create delicious recipes based on the ingredients they already have at home. It solves the common problem of not knowing what to cook and helps reduce food waste by suggesting personalized meal ideas.
 
+Target Users:
+- Students
+- Busy professionals
+- Home cooks
+- Anyone looking for quick and creative meal ideas
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Problem It Solves
+
+Many people struggle to decide what to cook using the ingredients available in their kitchen. Flavor Fusion AI provides intelligent recipe suggestions, saving time, reducing food waste, and making cooking easier and more enjoyable.
+
+---
+
+## Features
+
+- AI-powered recipe generation.
+- Ingredient-based meal suggestions.
+- Personalized cooking instructions.
+- User-friendly and responsive interface.
+- Instant recipe recommendations.
+- Easy-to-use design for all users.
+- Live deployed web application.
+
+---
+
+## AI-Powered Feature
+
+Flavor Fusion AI uses Artificial Intelligence to generate recipes based on the ingredients provided by the user.
+
+### AI Instructions / System Prompt
+
+The AI model is instructed to:
+
+- Analyze the ingredients entered by the user.
+- Generate creative and practical recipes.
+- Provide step-by-step cooking instructions.
+- Suggest ingredient substitutions when possible.
+- Recommend serving suggestions.
+- Ensure recipes are easy to understand and follow.
+
+Example Prompt:
+
+```
+You are an AI recipe assistant. Generate delicious and practical recipes using only the ingredients provided by the user. Provide cooking instructions, serving suggestions, and optional substitutions if applicable.
+```
+
+---
+
+## Tools, Services, and AI Models Used
+
+- Google AI Studio
+- GitHub
+- Vercel
+- HTML
+- CSS
+- JavaScript / React (if applicable)
+- Gemini AI Model (if used)
+- AI-powered recipe generation
+
+---
+
+## Screenshots
+
+Add at least three screenshots of your application here.
+
+### Screenshot 1
+
+(Add Home Screen Screenshot)
+
+### Screenshot 2
+
+(Add AI Recipe Generation Screenshot)
+
+### Screenshot 3
+
+(Add Recipe Results Screenshot)
+
+---
+
+## How to Run the Project Locally
+
+1. Clone the repository.
+
+```
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+2. Navigate to the project directory.
+
+```
+cd flavor-fusion-ai
+```
+
+3. Install dependencies.
+
+```
+npm install
+```
+
+4. Start the development server.
+
+```
+npm run dev
+```
+
+5. Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## Deployment
+
+The application is deployed on Vercel.
+
+Live URL:
+https://flavor-fusion-ai-ten.vercel.app/
+
+---
+
+## Author
+
+Developed by Maira Ali as the Final Project for Week 7 - Ship Your AI App.
