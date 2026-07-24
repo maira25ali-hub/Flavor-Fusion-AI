@@ -74,21 +74,17 @@ You are an AI recipe assistant. Generate delicious and practical recipes using o
 
 ## Screenshots
 
-Add at least three screenshots of your application here.
+### Home Screen
 
-### Screenshot 1
+![Home Screen](./screenshots/screenshot1.png)
 
-(Add Home Screen Screenshot)
+### AI Recipe Generation
 
-### Screenshot 2
+![AI Recipe Generation](./screenshots/screenshot2.png)
 
-(Add AI Recipe Generation Screenshot)
+### Recipe Results
 
-### Screenshot 3
-
-(Add Recipe Results Screenshot)
-
----
+![Recipe Results](./screenshots/screenshot3.png)
 
 ## How to Run the Project Locally
 
